@@ -13,7 +13,6 @@ Features Used	15 (post feature selection)
 Engineered advanced features: CF_AB Score, ZAS, BSI, Age Group
 Performed EDA, feature selection (VIF, correlation), and model optimization
 Compared multiple models → selected LightGBM (best performer)
-Integrated SHAP-based insights for interpretability
 Built modular ML pipeline + interactive UI
 
 🚀 Run Locally
