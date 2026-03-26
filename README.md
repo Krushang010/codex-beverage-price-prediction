@@ -33,7 +33,7 @@ streamlit run app.py
 ```
 
 ### Step 4 — Open in browser
-Streamlit will open automatically at `http://localhost:8501`
+Streamlit will open automatically at `https://codex-beverage-price-prediction-app.streamlit.app/`
 
 ## 📁 Project Structure
 ```
